@@ -1,0 +1,1 @@
+Projeto para a P1 de ALP, que consiste na criação de uma maquina de venda na linguagem C++.
